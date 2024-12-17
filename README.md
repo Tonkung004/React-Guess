@@ -1,9 +1,4 @@
-# React-Guess
-<div align="center">
-    <h1>Guess Game</h1>
-</div>
-
-# Guess Game
+# React-Guess-Game
 
 > [!NOTE]  
 > Guess Game is an interactive React Native project designed for fun and education. Players can guess numbers or other inputs in a user-friendly, engaging UI.
